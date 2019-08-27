@@ -1,7 +1,8 @@
 # vscode-dark-plus-webstorm
-VSCode Dark+ colourings for WebStorm, and a separate file with additional schemes for PHPStorm.
+VSCode Dark+ colourings for WebStorm
+VSCode Keymap fix for Webstorm (requires VSCode Keymap plugin)
 
-Last version checked: WebStorm 2019.1, PHPStorm 2019.1
+Last version checked: WebStorm 2019.2.1
 
 ## Use
 
@@ -75,3 +76,4 @@ This project is not actively maintained, as WebStorm is not my IDE of choice. Pu
 ### Thanks
 * Zhan Ishzhanov ([janat08](https://github.com/janat08)) - for flagging font differences across platforms
 * Marco Nava ([TheOnlyReadOnly](https://github.com/TheOnlyReadOnly)) - user screenshot
+* James Lendrum https://github.com/lenny1882/vscode-dark-plus-webstorm original repository
