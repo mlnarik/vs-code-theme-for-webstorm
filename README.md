@@ -1,5 +1,6 @@
 # vscode-dark-plus-webstorm
 VSCode Dark+ colourings for WebStorm
+
 VSCode Keymap fix for Webstorm (requires VSCode Keymap plugin)
 
 Last version checked: WebStorm 2019.2.1
@@ -58,14 +59,6 @@ The following have not had their colours changed, as there is no VSCode equivale
 * Stylus
 * XPath
 * Spy-js
-
-Additional PHPStorm schemes that are not changed in the PHPStorm file:
-
-* Blade
-* Database
-* gettext PO
-* Smarty
-* Table Diff
 
 ## Disclaimer
 The vast majority of work has been done with WebStorm open next to VSCode and its DevTools, selecting elements in VSCode and copying colour values where WebStorm does not match. As such, neither colourings nor theme are an exact replica (and never will be - VSCode and WebStorm handle a lot of things differently. VSCode, for example, offers far more granular syntax highlighting).
