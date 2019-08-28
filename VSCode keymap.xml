@@ -1,12 +1,14 @@
-<keymap version="1" name="VSCode fix" parent="VSCode">
-  <action id="Debug" />
+<keymap version="1" name="VSCode Keymap" parent="VSCode">
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
     <keyboard-shortcut first-keystroke="f1" />
   </action>
-  <action id="Graph.ApplyCurrentLayout" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="shift f8" />
+  </action>
+  <action id="GotoPreviousError" />
   <action id="Resume">
-    <keyboard-shortcut first-keystroke="f5" />
+    <keyboard-shortcut first-keystroke="f8" />
   </action>
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="s" />
